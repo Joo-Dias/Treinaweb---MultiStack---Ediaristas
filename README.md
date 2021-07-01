@@ -1,6 +1,6 @@
 # <img src="ediaristas/public/img/logos/logo.svg" alt="Ediaristas logo" width="160px"/>
 
-<center>  </center>
+<center> <img src="github/ediaristas.gif" alt="Ediaristas gif" width="560px"/> </center>
 
   ## 📒 Sobre o Ediaristas
   O Podcastr foi um projeto desenvolvido durante o evento NLW5 da Rocketseat, é
