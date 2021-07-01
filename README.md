@@ -1,8 +1,8 @@
-# <img src="public/img/logos/logo.svg" alt="Ediaristas logo" width="160px"/>
+# <img src="ediaristas/public/img/logos/logo.svg" alt="Ediaristas logo" width="160px"/>
 
-<center ><img src="github/Podcastr.gif" alt="Podcastr gif" width="560px"/></center>
+<center>  </center>
 
-  ## 📒 Sobre o Podcastr
+  ## 📒 Sobre o Ediaristas
   O Podcastr foi um projeto desenvolvido durante o evento NLW5 da Rocketseat, é
   um web site com o foco em Podcast, onde o usuário poderá ouvir seus podcast 
   enquanto faz outras atividades!
@@ -11,20 +11,16 @@
   Essa aplicação foi desenvolvida com as seguintes tecnologias:
   
   - [React](https://reactjs.org/)
-  - [Next.js](https://nextjs.org/)
+  - [Django](https://www.djangoproject.com/)
 
   ## 💾 Instalando os Programas Necessários
   Para instalar os programas use esse comando:
   ```
-  yarn
+  npm
   ```
-  - Caso não tenha o yarn siga o passo a passo de como instalar no seguinte link: https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+  - Caso não tenha o npm siga o passo a passo de como instalar no seguinte link: https://docs.npmjs.com/about-npm-versions & https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
   Para iniciar o projeto no navegador utilize este comando:
   ```
-  yarn dev
-  ```
-  Para iniciar o projeto em uma build utilize esse comando:
-  ```
-  yarn server
+  npm run dev
   ```
