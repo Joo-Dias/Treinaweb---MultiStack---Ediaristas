@@ -11,6 +11,9 @@
   entram então no app e "contratam" o diarista a partir da sua localização(CEP)
   Usando uma API para validações de endereço feita no Python com o Framework Django.
   
+  ## ✔️ Caso queira testar
+  Entre no seguinte link: https://e-diaristas-gamma.vercel.app/
+  
   ## 🌟 Tecnologias Usadas
   Essa aplicação foi desenvolvida com as seguintes tecnologias:
   
