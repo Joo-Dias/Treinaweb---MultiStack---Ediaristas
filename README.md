@@ -3,9 +3,10 @@
 <center> <img src="github/ediaristas.gif" alt="Ediaristas gif" width="560px"/> </center>
 
   ## 📒 Sobre o Ediaristas
-  O Podcastr foi um projeto desenvolvido durante o evento NLW5 da Rocketseat, é
-  um web site com o foco em Podcast, onde o usuário poderá ouvir seus podcast 
-  enquanto faz outras atividades!
+  O Ediarista foi um projeto desenvolvido na Semana MultiStack da Treinaweb, em que consiste em uma Aplicação Web e Mobile.
+  Onde Diaristas podem se cadastrar na aplicação e assim prestar seus serviços, e caso os usuários queiram esses serviços,
+  entram então no app e "contratam" o diarista a partir da sua localização(CEP)
+  Usando uma API para validações de endereço feita no Python com o Framework Django.
   
   ## 🌟 Tecnologias Usadas
   Essa aplicação foi desenvolvida com as seguintes tecnologias:
