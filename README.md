@@ -1,9 +1,12 @@
-# <img src="ediaristas/public/img/logos/logo.svg" alt="Ediaristas logo" width="160px"/>
+  # <img src="ediaristas/public/img/logos/logo.svg" alt="Ediaristas logo" width="160px"/>
 
-<center> <img src="github/ediaristas.gif" alt="Ediaristas gif" width="560px"/> </center>
+  <center> <img src="github/ediaristas.gif" alt="E-diaristas gif" width="560px"/> </center>
 
-  ## 📒 Sobre o Ediaristas
-  O Ediarista foi um projeto desenvolvido na Semana MultiStack da Treinaweb, em que consiste em uma Aplicação Web e Mobile.
+  ## 📱 E-diaristas mobile
+  <center> <img src="github/ediaristas-mobile.gif" alt="E-diaristas Mobile gif" width="150px"/> </center>
+
+  ## 📒 Sobre o E-diaristas
+  O E-diarista foi um projeto desenvolvido na Semana MultiStack da Treinaweb, em que consiste em uma Aplicação Web e Mobile.
   Onde Diaristas podem se cadastrar na aplicação e assim prestar seus serviços, e caso os usuários queiram esses serviços,
   entram então no app e "contratam" o diarista a partir da sua localização(CEP)
   Usando uma API para validações de endereço feita no Python com o Framework Django.
